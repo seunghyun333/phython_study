@@ -35,5 +35,4 @@ print('c' not in 'cat') #False
 #문제 : A는 B보다 크거나 같고, C는 D보다 작거나 같다 
 #A>=B AND C<=D
 
-# 불리안
-# bool(?) 값이 있으면 True, 없으면 False --04/29
+
