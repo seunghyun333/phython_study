@@ -29,5 +29,11 @@ print(num)
 # +,-,*,/,% 나머지, // 몫, ** 거듭제곱 , == 같다, != 같지 않다 
 # and : 둘다 참, or 하나라도 참이면 참, not 반전
 # 멤버연산자 : in 포함 , not in 미포함 
-print('c' in 'cat')
-print('c' not in 'cat')
+print('c' in 'cat') #True
+print('c' not in 'cat') #False
+
+#문제 : A는 B보다 크거나 같고, C는 D보다 작거나 같다 
+#A>=B AND C<=D
+
+# 불리안
+# bool(?) 값이 있으면 True, 없으면 False --04/29
