@@ -67,3 +67,6 @@ print(my_list.count('초코파이')) #2
 
 my_list.insert(1, 'orange')  # 인덱스 1 위치에 'orange' 삽입
 print(my_list)
+
+my_list2 = ['초코파이', '초코파이']
+print(my_list2) #['초코파이', '초코파이']
